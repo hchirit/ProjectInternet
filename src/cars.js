@@ -120,18 +120,7 @@ const cars = {
                 'Model years	2013–2016 (coupé)'+
                 ' 2016–2018 (Aperta)'+
                 'Designer	Centro Stile Ferrari under Flavio ') 
-  },
-  car12: {
-    name: 'Ferrari LaFerrari',
-    image: 'LaFerrari.jpg',
-    price : '300,000',
-    detail : ('Manufacturer	Ferrari N.V.Production ' +
-                ' June 2013 – January 2016 (coupé, 500+ examples)'+
-                ' October 2016 – August 2018 (Aperta, 210 examples)'+
-                'Model years	2013–2016 (coupé)'+
-                ' 2016–2018 (Aperta)'+
-                'Designer	Centro Stile Ferrari under Flavio ') 
-   }
+  }
 }
 
 export default cars
